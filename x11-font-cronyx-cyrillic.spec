@@ -1,6 +1,6 @@
 Name: x11-font-cronyx-cyrillic
 Version: 1.0.3
-Release: 11
+Release: 12
 Summary: Xorg X11 font cronyx-cyrillic
 Group: Development/X11
 URL: http://xorg.freedesktop.org
